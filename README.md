@@ -8,6 +8,7 @@ A factor investing framework is a systematic approach to investment management w
  Factor investing bets that certain characteristics (factors) systematically outperform over time.
  ----
 
+So, instead of just picking stocks based on themes or gut feeling, you build a rules-based portfolio focusing on exposure to factors that have historically delivered excess returns.
  
 
 
